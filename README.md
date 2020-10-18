@@ -1,6 +1,6 @@
 # Hacktoberfest2k20
 
-How to Contribute to this repository
+Steps to Contribute to Hacktoberfest
 
     1.Star this repository using 'Star' button on the top.
     2.Click on Fork Repository using the 'Fork' button on the top.
